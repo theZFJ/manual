@@ -11,7 +11,6 @@ build:
 
 # Build from the docs/ directory with Sphinx
 sphinx:
-  configuration: docs/conf.py
   fail_on_warning: true
 
 # Explicitly set the version of Python and its requirements
@@ -23,5 +22,3 @@ python:
     
 formats:  
   - pdf  
-  
-master_doc = 'index'
