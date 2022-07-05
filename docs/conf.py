@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'The Zombie Fridge Journal Manual'
+copyright = '2022, The Zombie Fridge Journal'
+author = 'The Zombie Fridge Journal'
 
 release = '0.1'
 version = '0.1.0'
