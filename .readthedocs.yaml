@@ -11,7 +11,7 @@ build:
 
 # Build from the docs/ directory with Sphinx
 sphinx:
-  configuration: conf.py
+  configuration: docs/conf.py
   fail_on_warning: true
 
 # Explicitly set the version of Python and its requirements
@@ -19,7 +19,7 @@ python:
   install:
     - method: pip
       path: .
-    - requirements: requirements.txt
+    - requirements: docs/requirements.txt
     
 formats:  
   - pdf  
