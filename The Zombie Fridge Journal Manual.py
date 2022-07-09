@@ -1,3 +1,6 @@
 # file present so that stuff works
 
-print("")
+def manual():
+    '''
+    Style guide and other useful information for ZFJ journalists.
+    '''
