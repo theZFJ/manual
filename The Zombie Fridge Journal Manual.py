@@ -4,3 +4,5 @@ def manual():
     '''
     Style guide and other useful information for ZFJ journalists.
     '''
+
+    return "Hello!"
