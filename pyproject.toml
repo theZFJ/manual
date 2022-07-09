@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "The Zombie Fridge Journal Manual"
-authors = [{name = "The Zombie Fridge Journal"}]
+authors = [{name = "Akira Rorschach"}]
 dynamic = ["version", "description"]
