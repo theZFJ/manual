@@ -8,6 +8,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    demo
