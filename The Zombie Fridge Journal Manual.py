@@ -1,4 +1,6 @@
-# file present so that stuff works
+'''
+The Zombie Fridge Journal Manual - Style guide and other useful information for ZFJ journalists.
+'''
 
 def manual():
     '''
