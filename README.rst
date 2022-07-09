@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
-=======================================
+The Zombie Fridge Journal Manual
+================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+The Zombie Fridge Journal Manual includes the style guide as well as other useful information for journalists. 
