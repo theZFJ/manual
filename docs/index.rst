@@ -7,6 +7,10 @@ Contents
 --------
 
 .. toctree::
-   :name: nameTest 
+   :caption: nameTest 
 
    Demo <demo> 
+
+   :caption: nameTest2
+
+   Test <test> 
