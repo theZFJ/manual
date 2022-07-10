@@ -11,6 +11,7 @@ Contents
 
    Demo <demo> 
 
+.. toctree::
    :caption: nameTest2
 
    Test <test> 
