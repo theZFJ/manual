@@ -7,5 +7,6 @@ Contents
 --------
 
 .. toctree::
+   :name: nameTest 
 
-   demo
+   Demo <demo> 
