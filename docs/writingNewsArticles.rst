@@ -13,6 +13,7 @@ The first headline is more interesting because it's unexpected.
 When you want to write a report, you should consider whether or not the story is interesting enough to be published.
 
 Consider: 
+
 * **Relevance** - does the story affect the readers? 
 * **Timeliness** - how quickly did you get the story out? has it been too long since it happened? 
     * Getting articles out on time is critical!!! There's only so long before it all becomes the olds instead of news!!!
@@ -30,6 +31,7 @@ The manual's directory of sources has some good places to start. Contact an edit
 Interviews are essential. Think about the kinds of people affected by an event (stakeholders, if you will) and try to get their statements. If you need help thinking of or finding people, contact an editor.
 
 Consider that article I wrote in January 2022 on the return to school after winter break during the largest COVID-19 surge of the pandemic. Some people important to interview include:
+
 * Students 
 * Parents 
 * Teachers
