@@ -5,13 +5,16 @@ The Zombie Fridge Journal Manual is a collection of useful information for journ
 
 It is mainly the style guide for the newspaper. It also has information on the article writing and editing process and acts as a reference for some useful sources.
 
-Contents
---------
+Contents:
+---------
 
 .. toctree:: 
    :caption: Basics 
 
    Writing News Articles <writingNewsArticles> 
+   Editing Process <editingProcess>
+   Accuracy Policy <accuracyAndCorrections>
+   Organisation Hierarchy <orgHierarchy>
 
 .. toctree::
    :caption: Style Guide
@@ -23,12 +26,12 @@ Contents
 
    U.S. Government References <usGovernment> 
 
-Contributors
-------------
+Contributors:
+-------------
 
 * Alvin Wu, Editor-in-Chief
 
-Edits
------
+Edits:
+------
 
 Contact Alvin Wu for proposed edits to the manual. 
