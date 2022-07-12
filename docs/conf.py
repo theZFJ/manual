@@ -4,7 +4,7 @@
 
 project = 'The Zombie Fridge Journal Manual'
 copyright = '2022, The Zombie Fridge Journal'
-author = 'The Zombie Fridge Journal'
+author = 'Alvin Wu'
 
 release = '0.1'
 version = '0.1.0'
