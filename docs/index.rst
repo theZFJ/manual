@@ -9,7 +9,7 @@ Contents:
 ---------
 
 .. toctree:: 
-   :caption: Basics 
+   :caption: Operations 
 
    Writing News Articles <writingNewsArticles> 
    Editing Process <editingProcess>
