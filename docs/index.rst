@@ -3,7 +3,7 @@ The Zombie Fridge Journal Manual
 
 The Zombie Fridge Journal Manual is a collection of useful information for journalists. 
 
-It is mainly the style guide for the newspaper. It also has information on the article writing and editing process and acts as a reference for some useful sources.
+It is mainly the style guide and operations manual for the newspaper. It also has information on the article writing and editing process and acts as a reference for some useful sources.
 
 Contents:
 ---------
