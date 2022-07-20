@@ -14,6 +14,7 @@ Contents:
    :caption: Operations 
 
    Writing News Articles <writingNewsArticles> 
+   Editorialising <editorialising>
    Editing Process <editingProcess>
    Accuracy Policy <accuracyAndCorrections>
    Organisation Hierarchy <orgHierarchy>
