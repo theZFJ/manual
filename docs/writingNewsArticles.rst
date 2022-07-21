@@ -72,3 +72,18 @@ Verify that:
 * The story is fair (could you defend your article against any challenges?)
 * The editor is notified of any potential issues (legal, reputational, or whatnot)
 
+Bylines and Attribution
+-----------------------
+
+The byline lists the primary author of the article first and then any other significant contributors. 
+
+Additional contributors are listed at the end in the signoff with "Additional reporting by...". The article's editor is listed at the end with "Edited by...".
+
+Datelines
+---------
+
+Datelines indicate where the story was written (ex. "NEW YORK CITY, July 21 (ZFJ) - [ARTICLE]"). 
+
+The format should be CITY, COUNTRY, DATE (ZFJ). Include COUNTRY if the city isn't that well known. 
+
+Only include the location if our journalist was present there. Otherwise, the signoff at the end should indicate where the story was written.
