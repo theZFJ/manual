@@ -27,6 +27,7 @@ Contents:
 .. toctree::
    :caption: Source Directory
 
+   Other News Organisations <otherNewsOrgs>
    U.S. Federal Government References <usFedGovt> 
    U.S. State Government References <usStateGovt>
    U.S. Municipal Government References <usMunGovt>
