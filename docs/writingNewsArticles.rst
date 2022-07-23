@@ -82,7 +82,7 @@ Additional contributors are listed at the end in the signoff with "Additional re
 Datelines
 ---------
 
-Datelines indicate where the story was written (ex. "NEW YORK CITY, July 21 (ZFJ) - [ARTICLE]"). 
+Datelines indicate where the story was written (ex. "NEW YORK CITY, Jul 21 (ZFJ) - [ARTICLE]"). 
 
 The format should be CITY, COUNTRY, DATE (ZFJ). Include COUNTRY if the city isn't that well known. 
 

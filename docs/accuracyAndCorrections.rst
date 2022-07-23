@@ -3,6 +3,10 @@ Accuracy Policy
 
 ZFJ accuracy and corrections policy. 
 
+**THE PRIMARY PRINCIPLE: REPORT THE FACTS TRUTHFULLY.** Don't forget it. If you can't expect yourself to be fair, you can't expect others to be fair as well. 
+
+As a basic ethical test: Would you be able to defend your work before someone who you respect? 
+
 Safety
 ------
 

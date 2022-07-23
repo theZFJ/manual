@@ -5,7 +5,7 @@ The Zombie Fridge Journal Manual is a collection of useful information for journ
 
 It is mainly the style guide and operations manual for the newspaper. It also has information on the article writing and editing process and acts as a reference for some useful sources.
 
-The manual is based on the `Reuters Handbook of Journalism <https://www.trust.org/contentAsset/raw-data/652966ab-c90b-4252-b4a5-db8ed1d438ce/file>`_ and `the Reuters Foundation Reporters Handbook <https://www.trust.org/contentAsset/raw-data/331ec29e-cf0d-4de9-aeff-4050fc22a884/file>`_.
+The manual is based on the `Reuters Handbook of Journalism <https://www.trust.org/contentAsset/raw-data/652966ab-c90b-4252-b4a5-db8ed1d438ce/file>`_, `the Reuters Foundation Reporters Handbook <https://www.trust.org/contentAsset/raw-data/331ec29e-cf0d-4de9-aeff-4050fc22a884/file>`_, and `Reuters Standards and Values <https://www.reutersagency.com/en/about/standards-values/>`_.
 
 Contents:
 ---------
@@ -14,10 +14,11 @@ Contents:
    :caption: Operations 
 
    Writing News Articles <writingNewsArticles> 
-   Editorialising <editorialising>
-   Editing Process <editingProcess>
    Accuracy Policy <accuracyAndCorrections>
+   Interviewing <interviewing>
+   Editorialising <editorialising>
    Organisation Hierarchy <orgHierarchy>
+   Editing Process <editingProcess>
 
 .. toctree::
    :caption: Style Guide
@@ -27,7 +28,9 @@ Contents:
 .. toctree::
    :caption: Source Directory
 
+   Medical Organisations <medOrgs>
    Other News Organisations <otherNewsOrgs>
+   Scientific Organisations <sciOrgs>
    U.S. Federal Government References <usFedGovt> 
    U.S. State Government References <usStateGovt>
    U.S. Municipal Government References <usMunGovt>
@@ -40,4 +43,4 @@ Contributors:
 Edits:
 ------
 
-Contact Alvin Wu for proposed edits to the manual. 
+Open an issue in the `GitHub repository <https://github.com/theZFJ/manual/issues>`_ or contact Alvin Wu for proposed edits to the manual. 
