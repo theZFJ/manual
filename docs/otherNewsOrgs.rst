@@ -63,6 +63,11 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 * Website: https://www.asahi.com/ajw/
 * HQ: Japan
 
+**The Global New Light of Myanmar** (STATE)
+
+* Website: https://www.gnlm.com.mm/
+* HQ: Myanmar 
+
 **The Guardian (RECORD)**
 
 * Website: https://www.theguardian.com/us
