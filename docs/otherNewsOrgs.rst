@@ -58,7 +58,7 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 * Website: http://www.tapinto.net/
 * HQ: Local, United States
 
-**The Asahi Shimbun**
+**The Asahi Shimbun** (RECORD)
 
 * Website: https://www.asahi.com/ajw/
 * HQ: Japan
