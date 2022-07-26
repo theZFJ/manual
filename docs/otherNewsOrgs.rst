@@ -58,12 +58,12 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 * Website: http://www.tapinto.net/
 * HQ: Local, United States
 
-**The Asahi Shimbun** (RECORD)
+**The Asahi Shimbun (RECORD)**
 
 * Website: https://www.asahi.com/ajw/
 * HQ: Japan
 
-**The Global New Light of Myanmar** (STATE)
+**The Global New Light of Myanmar (STATE)**
 
 * Website: https://www.gnlm.com.mm/
 * HQ: Myanmar 
