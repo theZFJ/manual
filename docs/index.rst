@@ -39,6 +39,7 @@ Contributors:
 -------------
 
 * Alvin Wu, Editor-in-Chief
+* Sushanth Balaraman 
 
 Edits:
 ------

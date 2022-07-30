@@ -15,7 +15,7 @@ Make sure you know the interviewee's name and their titles or positions.
 Conducting the Interview
 ------------------------
 
-Chat about general stuff before you start asking questions. It helps the interviewee relax. Be chill. 
+Chat about general stuff before you start asking questions. It helps the interviewee relax. Be polite, professional, and chill. You want to have a friendly relationship with the interviewee, so phrases like "thank you" and "have a nice day" both go a long way.
 
 Ask the interviewee for the consent to record the interview before you start the tape. Recording is definitely preferred because you won't have to frantically scribble notes. Keep your recorder and/or notebook to the side so that the interviewee isn't constantly visually reminded that they're being recorded.
 
