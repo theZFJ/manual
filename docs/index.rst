@@ -12,6 +12,7 @@ Contents:
 
 .. toctree:: 
    :caption: Operations 
+   :titlesonly:
 
    Writing News Articles <writingNewsArticles> 
    Accuracy Policy <accuracyAndCorrections>
@@ -22,11 +23,13 @@ Contents:
 
 .. toctree::
    :caption: Style Guide
+   :titlesonly:
 
    Dates and Times <datesAndTimes>
 
 .. toctree::
    :caption: Source Directory
+   :titlesonly:
 
    Medical Organisations <medOrgs>
    Other News Organisations <otherNewsOrgs>
