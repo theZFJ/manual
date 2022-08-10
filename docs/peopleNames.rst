@@ -5,7 +5,7 @@ NEVER ASSUME HOW TO SPELL SOMEONE'S NAME. An offence punishable by burning at th
 
 Okay, well, I can't burn you at the stake, but you should get the point. 
 
-Smith or Smyth? Chris or Kris? Jay or Jai? Caitlyn or Kaitlyn? Britney, Britteney, or Brittany? Sean or Shawn??? Lindsay or Lindsey??? Steven or Stephen?????????? AAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHH
+Smith or Smyth? Chris or Kris? Jay or Jai? Caitlyn or Kaitlyn? Britney, Brittney, or Brittany? Sean or Shawn??? Lindsay or Lindsey??? Steven or Stephen?????????? AAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHH
 
 You get the point. **NEVER ASSUME HOW TO SPELL SOMEONE'S NAME.**
 
