@@ -8,6 +8,11 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 * Website: https://apnews.com/
 * HQ: United States
 
+**Bleeping Computer**
+
+* Website: https://www.bleepingcomputer.com/
+* Description: Information technology and security reporting 
+
 **British Broadcasting Corporation (BBC)**
 
 * Website: https://www.bbc.com/news
@@ -63,6 +68,11 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 * Website: https://www.asahi.com/ajw/
 * HQ: Japan
 
+**The Cable News Network (CNN)**
+
+* Website: https://www.cnn.com/
+* HQ: United States
+
 **The Global New Light of Myanmar (STATE)**
 
 * Website: https://www.gnlm.com.mm/
@@ -72,6 +82,11 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 
 * Website: https://www.theguardian.com/us
 * HQ: United Kingdom
+
+**The Harvard Crimson**
+
+* Website: https://www.thecrimson.com/
+* Description: Student newspaper of Harvard University
 
 **The Mainichi Shimbun (RECORD)** 
 
