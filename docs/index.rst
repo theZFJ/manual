@@ -18,7 +18,7 @@ Contents:
    Accuracy Policy <accuracyAndCorrections>
    Interviewing <interviewing>
    Editorialising <editorialising>
-   Organisation Hierarchy <orgHierarchy>
+   Organisation Structure <orgStructure>
    Editing Process <editingProcess>
 
 .. toctree::
@@ -44,9 +44,9 @@ Contributors:
 -------------
 
 * Alvin Wu, Editor-in-Chief
-* Sushanth Balaraman 
+* Sushanth Balaraman, Copyeditor 
 
-Edits:
+Proposed Edits:
 ------
 
-Open an issue in the `GitHub repository <https://github.com/theZFJ/manual/issues>`_ or contact Alvin Wu for proposed edits to the manual. 
+Open an issue in the `GitHub repository <https://github.com/theZFJ/manual/issues>`_. 
