@@ -27,9 +27,8 @@ Dealing with more niche subject areas. May or may not apply to a specific region
 * Entertainment Division - Entertainment business stuff. Movies, video games, music, etc. Label: Entertainment 
 * Law and Justice - Criminal and civil matters. Label: Regional label 
 * Medicine Division - Medical advancements. Label: Medicine 
-* Science Division - Scientific advancements. Label: Science 
+* Science and Technology Division - Scientific and technological advancements. Label: Science and Technology
 * Sports Division - Sports news. Label: Sports
-* Technology Division - Technological advancements. Label: Technology 
 
 Special Divisions
 -----------------
