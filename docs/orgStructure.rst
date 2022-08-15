@@ -1,7 +1,7 @@
 Organisation Structure
 ======================
 
-The editor-in-chief and copyeditors oversee all departments. An associate editor oversees a specific department. 
+The editor-in-chief and copy editors oversee all departments. An associate editor oversees a specific department. 
 
 Rorschach does like fancy names because he's read too many Wikipedia articles on government agencies, so here you go. It's really more for organising news. Or if you want a cool thing for a college resume. 
 
