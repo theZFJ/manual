@@ -18,6 +18,11 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 * Website: https://www.bbc.com/news
 * HQ: United Kingdom
 
+**Central News Agency (CNA) (STATE)**
+
+* Website: https://focustaiwan.tw/
+* HQ: Taiwan 
+
 **Der Spiegel (RECORD)**
 
 * Website: https://www.spiegel.de/international/
