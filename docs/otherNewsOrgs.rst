@@ -3,6 +3,11 @@ Other News Organisations
 
 Some news organisations. Wire agencies, denoted WIRE, gather news reports and sell them to many newspaper clients for publication. Newspapers of record, denoted RECORD, a major national papers with great reputations. State-run media, denoted STATE, are controlled by their respective governments and should be considered with a heightened level of scepticism.
 
+**Ars Technica**
+
+* Website: https://arstechnica.com/
+* Description: Technology and science reporting
+
 **Associated Press (AP) (WIRE)**
 
 * Website: https://apnews.com/
