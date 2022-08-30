@@ -17,6 +17,12 @@ A noncomprehensive list of press release feeds from United States federal govern
 * General press information: https://www.fda.gov/news-events/fda-newsroom
 * Email: FDAOMA@fda.hhs.gov
 
+**National Aeronautics and Space Administration (NASA)**
+
+* Description: U.S. space agency
+* Press releases: https://www.nasa.gov/news/releases/latest/index.html
+* General press information: https://www.nasa.gov/news/media/info/index.html
+
 **U.S. Department of Justice**
 
 * Description: Federal law enforcement department
