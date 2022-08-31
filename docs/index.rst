@@ -33,6 +33,7 @@ Contents:
    :caption: Source Directory
    :titlesonly:
 
+   Awards <awards>
    Medical Organisations <medOrgs>
    Other News Organisations <otherNewsOrgs>
    Scientific Organisations <sciOrgs>
