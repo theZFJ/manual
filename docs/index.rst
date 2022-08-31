@@ -34,6 +34,7 @@ Contents:
    :titlesonly:
 
    Awards <awards>
+   International Organisation <intOrgs>
    Medical Organisations <medOrgs>
    Other News Organisations <otherNewsOrgs>
    Scientific Organisations <sciOrgs>
