@@ -33,6 +33,11 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 * Website: https://www.spiegel.de/international/
 * HQ: Germany
 
+**Global News**
+
+* Website: https://globalnews.ca/
+* HQ: Canada
+
 **Japan Broadcasting Corporation (NHK)** 
 
 * Website: https://www3.nhk.or.jp/nhkworld/en/news/
