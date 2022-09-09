@@ -68,6 +68,11 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 * Website: https://www.reuters.com/
 * HQ: United Kingdom
 
+**Rodong Sinmun (STATE)**
+
+* Website: http://www.rodong.rep.kp/en/
+* HQ: North Korea
+
 **Russian News Agency TASS (TASS) (STATE) (WIRE)**
 
 * Website: https://tass.com/
