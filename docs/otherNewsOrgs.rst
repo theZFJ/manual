@@ -43,6 +43,11 @@ Some news organisations. Wire agencies, denoted WIRE, gather news reports and se
 * Website: https://www3.nhk.or.jp/nhkworld/en/news/
 * HQ: Japan
 
+**Korean Central News Agency (KCNA) (STATE)**
+
+* Website: http://www.kcna.kp/en
+* HQ: North Korea
+
 **Kyodo News** 
 
 * Website: https://english.kyodonews.net/
