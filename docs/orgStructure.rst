@@ -36,5 +36,5 @@ Special Divisions
 Not news. Requires special colouration to denote that fact. 
 
 * Opinion Department - For anything expressly meant for expressing opinions of the writers. Label: Opinion. Colour: Purple 
-* Office of Strategic Satire - Because we all love *The Onion*. Name is definitely not a parody of the WWII U.S. intelligence agency "Office of Strategic Services" that eventually led to the CIA. Label: Satire. Colour: Dark Green 
+* Parallel Universe Bureau - It's all true. Just in a different universe from ours. Label: Parallel Universe Reports. Colour: Dark Green 
     * Note: Explicitly saying it's satire may be very unfortunate to have to do, but if we're gonna mix it in with the regular news, we're gonna have to label it.
