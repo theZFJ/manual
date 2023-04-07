@@ -5,7 +5,7 @@ The Zombie Fridge Journal Manual is a collection of useful information for journ
 
 It is the style guide and operations manual for the newspaper. It also has information on the article writing and editing process and acts as a reference for some useful sources.
 
-The manual is based on the `Reuters Handbook of Journalism <https://www.trust.org/contentAsset/raw-data/652966ab-c90b-4252-b4a5-db8ed1d438ce/file>`_, `the Reuters Foundation Reporters Handbook <https://www.trust.org/contentAsset/raw-data/331ec29e-cf0d-4de9-aeff-4050fc22a884/file>`_, and `Reuters Standards and Values <https://www.reutersagency.com/en/about/standards-values/>`_.
+The manual is based on the `Reuters Handbook of Journalism <https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf>`_, `the Reuters Foundation Reporters Handbook <https://www.trust.org/contentAsset/raw-data/331ec29e-cf0d-4de9-aeff-4050fc22a884/file>`_, and `Reuters Standards and Values <https://www.reutersagency.com/en/about/standards-values/>`_.
 
 Contents:
 ---------
